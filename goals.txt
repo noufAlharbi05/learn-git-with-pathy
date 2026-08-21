@@ -1,3 +1,4 @@
 Learn git and githup with pathya
 use git and githup in useful way
 upload a new project in pathy
+Learn python
